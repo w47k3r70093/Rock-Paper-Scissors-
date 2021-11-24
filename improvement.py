@@ -9,7 +9,7 @@ width, height = 500, 250
 # ----------------------------------------------------------------------------------------------------------------------------
 
 def OPEN_WHATSAPP():
-    a = pywhatkit.sendwhatmsg_instantly('+91 9312422987', 'Hey! Thanks for making this game but I would like to give some suggestions so that this game can be improved well \n 1. <Suggestion 1> \n 2. <Suggestion 2> \n 3. <Suggesstion 3>', 10)
+    a = pywhatkit.sendwhatmsg_instantly('+91 9312422987', 'Hey! Thanks for making this game but I would like to give some suggestions so that this game can be improved well \n 1. <Suggestion 1> \n 2. <Suggestion 2> \n 3. <Suggesstion 3>', 999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999)
     print(a)
 
 
